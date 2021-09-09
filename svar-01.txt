@@ -1,0 +1,30 @@
+4) Angiv seks 'CMD prompt' kommandoer du synes er vigtige,
+   med en beskrivelse af hvad de gør.
+
+1. Dir -> viser dine directories, og danner overblik, så du kan manøvrere i command prompt.
+
+2. cd -> Hvis dir er øjnene, så er cd benene. Den tillader en at bevæge sig rundt i systemet.
+
+3. md -> laver en ny directory, bare brugbar
+
+4. cls -> Hjælper med overblikket, idet den rydder skærmen
+
+5. shutdown/p -> Relativt ligegyldig kommando, men det er den jeg bruger mest. Mit system er langsomt,
+så det er meget hurtigere at lukke systemet med denne kommando.
+I øvrigt kan jeg benytte den til at starte maskinen på bestemte måder.
+
+6. help -> Klart den vigtigste kommando, idet den hjælper mig med at forstå de andre.
+
+
+5) I noten 'Hukommelse og glemsel' kan du se en graf.
+   Antag du har modtaget ny viden. Hvad kan 'du' forvente at kunne huske efter 2 dage er passeret ?
+ca. 25% ifølge grafen.
+
+6) I noten 'Derfor dumper computere til matematik' omtales en episode under Golf krigen.
+   Hvor mange amerikanske soldater mistede livet under angrebet ?
+   Ingeniøren valgte tallet 0.1 som sekund-tik. 
+   Kan du angive et tal ingeniøren istedet skulle have valgt ? 
+
+28 soldater døde som følge af afrundingsfejlen.
+
+i stedet for et 1/10 tik, så kunne der benyttes et 1/2, 1/4, 1/8 eller endda 1/16 tik. Disse forlængelser af totalssystememet repræsenteres nemlig alle korrekt i systemet.
